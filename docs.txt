@@ -1,0 +1,16 @@
+Resoure urls
+
+https://www.1-day.co.nz/
+https://www.catch.co.nz/
+https://www.mightyape.co.nz/
+
+Description
+These websites email there latest emails to subscribers, I need all the products , price , stock (if available) to show on website, these website updates there catalog everyday.
+
+Products should be with all photos & before after price tags
+
+Also the products ( scrap data should have categories, like tech fashion home
+
+
+
+
